@@ -1,0 +1,92 @@
+[
+  {
+    "invoice_id": "INV1001",
+    "type": "Accounts Payable",
+    "vendor": "Acme Corp",
+    "amount": 7500,
+    "status": "Pending",
+    "approver": "John Doe",
+    "last_updated": "2025-09-14"
+  },
+  {
+    "invoice_id": "INV1002",
+    "type": "Accounts Receivable",
+    "customer": "Beta Ltd",
+    "amount": 12000,
+    "status": "Approved",
+    "approver": "Jane Smith",
+    "last_updated": "2025-09-10"
+  },
+  {
+    "invoice_id": "INV1003",
+    "type": "Accounts Payable",
+    "vendor": "Gamma Inc",
+    "amount": 4300,
+    "status": "Rejected",
+    "approver": "Alice Brown",
+    "last_updated": "2025-09-12"
+  },
+  {
+    "invoice_id": "INV1004",
+    "type": "Accounts Receivable",
+    "customer": "Delta Co",
+    "amount": 9800,
+    "status": "Pending",
+    "approver": "Bob Lee",
+    "last_updated": "2025-09-15"
+  },
+  {
+    "invoice_id": "INV1005",
+    "type": "Accounts Payable",
+    "vendor": "Epsilon Ltd",
+    "amount": 15000,
+    "status": "Approved",
+    "approver": "John Doe",
+    "last_updated": "2025-09-13"
+  },
+  {
+    "invoice_id": "INV1006",
+    "type": "Accounts Receivable",
+    "customer": "Zeta Group",
+    "amount": 6700,
+    "status": "Pending",
+    "approver": "Jane Smith",
+    "last_updated": "2025-09-16"
+  },
+  {
+    "invoice_id": "INV1007",
+    "type": "Accounts Payable",
+    "vendor": "Eta Enterprises",
+    "amount": 3200,
+    "status": "Approved",
+    "approver": "Alice Brown",
+    "last_updated": "2025-09-11"
+  },
+  {
+    "invoice_id": "INV1008",
+    "type": "Accounts Receivable",
+    "customer": "Theta LLC",
+    "amount": 8900,
+    "status": "Rejected",
+    "approver": "Bob Lee",
+    "last_updated": "2025-09-09"
+  },
+  {
+    "invoice_id": "INV1009",
+    "type": "Accounts Payable",
+    "vendor": "Iota Systems",
+    "amount": 10200,
+    "status": "Pending",
+    "approver": "John Doe",
+    "last_updated": "2025-09-14"
+  },
+  {
+    "invoice_id": "INV1010",
+    "type": "Accounts Receivable",
+    "customer": "Kappa Solutions",
+    "amount": 13400,
+    "status": "Approved",
+    "approver": "Jane Smith",
+    "last_updated": "2025-09-10"
+  }
+]
